@@ -4,4 +4,5 @@ Com o consumo da API do deezer, é possivel buscar por um artista, cadastrar o a
 E após salvar os dados, é possivel consultar as músicas que foram anteriormente salvas.
 
 ## Tecnologias utilizadas
-<img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Descrição da imagem" width="45" /> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Descrição da imagem" width="45" />
+<img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Descrição da imagem" width="45" /> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Descrição da imagem" width="45" /> <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Descrição da imagem" width="45" />
+
